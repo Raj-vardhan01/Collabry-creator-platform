@@ -29,9 +29,11 @@ Rajvardhan Singh Rajawat
 ## Screenshots
 
 ![Homepage](./homepage.png)
-![Homepage](./homepage1.png)
+![Homepage1](./homepage1.png)
 ![Creator Flow](./creator.png)
-![Creator Flow](./creator1.png)
+![Creator Flow1](./creator1.png)
 ![Brand Flow](./brand.png)
-![Brand Flow](./brand1.png)
-![Admin panel](./Admin.png)
+![Brand Flow1](./brand1.png)
+![Admin pane](./Admin.png)
+![Admin pane2](./Admin2.png)
+![Admin pane3](./Admin3.png)
