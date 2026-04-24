@@ -33,4 +33,5 @@ Rajvardhan Singh Rajawat
 ![Creator Flow](./creator.png)
 ![Creator Flow](./creator1.png)
 ![Brand Flow](./brand.png)
+![Brand Flow](./brand1.png)
 ![Admin panel](./Admin.png)
