@@ -25,3 +25,10 @@ Currently in the prototype stage. The demo video above shows the complete flow a
 
 ## Author
 Rajvardhan Singh Rajawat
+
+## Screenshots
+
+![Homepage](./homepage.png)
+![Creator Flow](./creator.png)
+![Brand Flow](./brand.png)
+![Admin panel](./Admin.png)
