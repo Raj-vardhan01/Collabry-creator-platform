@@ -15,7 +15,7 @@ Collabry introduces a simple system where creators and brands can connect in a m
 - Clean and simple landing interface  
 
 ## Demo
-https://youtube.com/shorts/e1xuvriESBs?si=ccpSMLNfI3C46nt-
+https://youtube.com/shorts/EY727AinN6Y?si=dvrouPvXtokFaxPM
 
 ## Build
 This is an MVP built to validate the idea and user flow.
