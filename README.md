@@ -35,5 +35,5 @@ Rajvardhan Singh Rajawat
 ![Brand Flow](./brand.png)
 ![Brand Flow1](./brand1.png)
 ![Admin pane](./Admin.png)
+![Admin pane1](./Admin1.png)
 ![Admin pane2](./Admin2.png)
-![Admin pane3](./Admin3.png)
